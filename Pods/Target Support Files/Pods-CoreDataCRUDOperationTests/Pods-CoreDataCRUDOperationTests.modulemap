@@ -1,0 +1,6 @@
+framework module Pods_CoreDataCRUDOperationTests {
+  umbrella header "Pods-CoreDataCRUDOperationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

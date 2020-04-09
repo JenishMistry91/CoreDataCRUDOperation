@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>03C8A26E-1B44-477A-8FF7-56022C2A52EE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>03C8A26E-1B44-477A-8FF7-56022C2A52EE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Toast-Swift-bhlicwnsyrsbwnguqdkgdbnmjddr</string>
+			<key>timeStartedRecording</key>
+			<real>608028949.67150497</real>
+			<key>timeStoppedRecording</key>
+			<real>608028949.92488599</real>
+			<key>title</key>
+			<string>Build target Toast-Swift</string>
+			<key>uniqueIdentifier</key>
+			<string>03C8A26E-1B44-477A-8FF7-56022C2A52EE</string>
+		</dict>
+		<key>25055F73-B1D6-499B-B769-BA847172E8CF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>25055F73-B1D6-499B-B769-BA847172E8CF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>CoreDataCRUDOperation-cuopbtifaoouyifwrmdtamggovew</string>
+			<key>timeStartedRecording</key>
+			<real>608035065.08380604</real>
+			<key>timeStoppedRecording</key>
+			<real>608035066.107517</real>
+			<key>title</key>
+			<string>Build target CoreDataCRUDOperation</string>
+			<key>uniqueIdentifier</key>
+			<string>25055F73-B1D6-499B-B769-BA847172E8CF</string>
+		</dict>
+		<key>7328EE81-7079-4586-8E11-A0C92F36F34B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>7328EE81-7079-4586-8E11-A0C92F36F34B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Pods-CoreDataCRUDOperation-bhlicwnsyrsbwnguqdkgdbnmjddr</string>
+			<key>timeStartedRecording</key>
+			<real>608028573.10276198</real>
+			<key>timeStoppedRecording</key>
+			<real>608028573.106251</real>
+			<key>title</key>
+			<string>Build target Pods-CoreDataCRUDOperation</string>
+			<key>uniqueIdentifier</key>
+			<string>7328EE81-7079-4586-8E11-A0C92F36F34B</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

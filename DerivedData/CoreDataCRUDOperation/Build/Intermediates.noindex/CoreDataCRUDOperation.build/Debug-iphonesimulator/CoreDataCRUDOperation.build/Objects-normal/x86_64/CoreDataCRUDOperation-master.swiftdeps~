@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "c3a0f33ce6fa716829e251e5798caf14"
+build_time: [1586342210, 634119000]
+inputs:
+  "/Users/JenishMistry/DEMOS/CoreDataCRUDOperation/CoreDataCRUDOperation/ViewController.swift": [1586342210, 582275047]
+  "/Users/JenishMistry/DEMOS/CoreDataCRUDOperation/CoreDataCRUDOperation/AppDelegate.swift": [1586244285, 796584545]
+  "/Users/JenishMistry/DEMOS/CoreDataCRUDOperation/CoreDataCRUDOperation/SceneDelegate.swift": [1586244285, 804754226]
+  "/Users/JenishMistry/DEMOS/CoreDataCRUDOperation/DerivedData/CoreDataCRUDOperation/Build/Intermediates.noindex/CoreDataCRUDOperation.build/Debug-iphonesimulator/CoreDataCRUDOperation.build/DerivedSources/CoreDataGenerated/CoreDataCRUDOperation/User+CoreDataClass.swift": [1586336149, 966805362]
+  "/Users/JenishMistry/DEMOS/CoreDataCRUDOperation/DerivedData/CoreDataCRUDOperation/Build/Intermediates.noindex/CoreDataCRUDOperation.build/Debug-iphonesimulator/CoreDataCRUDOperation.build/DerivedSources/CoreDataGenerated/CoreDataCRUDOperation/User+CoreDataProperties.swift": [1586336149, 967641579]
+  "/Users/JenishMistry/DEMOS/CoreDataCRUDOperation/DerivedData/CoreDataCRUDOperation/Build/Intermediates.noindex/CoreDataCRUDOperation.build/Debug-iphonesimulator/CoreDataCRUDOperation.build/DerivedSources/CoreDataGenerated/CoreDataCRUDOperation/CoreDataCRUDOperation+CoreDataModel.swift": [1586336149, 964961523]

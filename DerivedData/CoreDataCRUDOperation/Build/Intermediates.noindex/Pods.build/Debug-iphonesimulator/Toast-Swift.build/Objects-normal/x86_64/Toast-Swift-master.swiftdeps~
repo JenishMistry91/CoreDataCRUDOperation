@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "0d5cd46da723a9b907bc5306ca0021b4"
+build_time: [1586335772, 806371000]
+inputs:
+  "/Users/JenishMistry/DEMOS/CoreDataCRUDOperation/Pods/Toast-Swift/Toast/Toast.swift": [1586248242, 906605468]

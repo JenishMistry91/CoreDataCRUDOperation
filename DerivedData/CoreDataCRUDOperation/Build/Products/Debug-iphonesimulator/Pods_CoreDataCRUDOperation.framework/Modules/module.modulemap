@@ -1,0 +1,6 @@
+framework module Pods_CoreDataCRUDOperation {
+  umbrella header "Pods-CoreDataCRUDOperation-umbrella.h"
+
+  export *
+  module * { export * }
+}
